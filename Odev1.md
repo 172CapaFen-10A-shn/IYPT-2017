@@ -14,4 +14,4 @@ Elinizde bir fincan kahveyle yürümek çoğu zaman çeşitli sorunların meydan
 
 ## Kaynakçalar  
 • Mayer H.C., Krechetnikov R. (2012) “Walking with coffee: Why does it spill?” Phys. Rev. E 85, 046117
-https://www.ncbi.nlm.nih.gov/pubmed/22680548/
+https://www.ncbi.nlm.nih.gov/pubmed/22680548/ Son erişim tarihi: 20 Nisan 2012
