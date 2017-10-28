@@ -15,6 +15,8 @@ Elinizde bir fincan kahveyle yürümek çoğu zaman çeşitli sorunların meydan
 ## Kaynakçalar  
 • Mayer H.C., Krechetnikov R. (2012) “Walking with coffee: Why does it spill?” Phys. Rev. E 85, 046117
 https://www.ncbi.nlm.nih.gov/pubmed/22680548/ Son erişim tarihi: 20 Nisan 2012
+
 • Pavel, L., Budantsev, A., "Coffee Cup". Iypt solutions.
  http://solutions.iypt.org/uploads/2015_RU_Coffee_cup_Pavel_Ianko_Alexey_Budantsev_1441073232.pdf
+ 
 • Ikeda T., Murakami S. (2005) “Autoparametric resonances in a structure/fluid interaction system carrying a cylindrical liquid tank.” J. Sound Vibr. 285, 517–546.
